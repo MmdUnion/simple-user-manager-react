@@ -5,8 +5,8 @@
 
 ### 2- Clone the repository:
 ```bash
-git clone test
-cd simple-react-manager-react/
+git clone https://github.com/MmdUnion/simple-user-manager-react.git
+cd simple-user-manager-react/
 ```
 ### 3- Install requirements:
 
